@@ -5,4 +5,18 @@
 - 👯 I’m looking to collaborate on projects for beginners
 - 🤔 I’m looking for help with everything coding
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: My favourite food is chocolate lava cake with vanilla icecream
+
+---
+
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages     |
+|-----:|---------------|
+|     1| RStudio       |
+|     2| Linux         |
+|     3| Python        |
+
+</details>
+
+---
